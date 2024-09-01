@@ -8,7 +8,8 @@ LeetCode and LeetCode CN are both supported.
 
 [Playground: Try It Now](https://leetcard.jacoblin.cool/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
+[![LeetCode Stats]([https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/ButterflyEffectx?theme=unicorn&font=Anek%20Kannada&ext=activity)]
+
 
 ## Features
 
